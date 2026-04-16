@@ -19,7 +19,7 @@ deploymentProfiles:
     components:
       - name: node-red
         properties:
-          packageLocation: https://raw.githubusercontent.com/<org>/<repo>/main/node-red/compose.yaml
+          packageLocation: https://raw.githubusercontent.com/OI4/oi4-margo-sandbox/refs/heads/main/tutorial/node-red-margo/compose.yaml
 parameters:
   nodeRedPort:
     value: 1880
