@@ -3,7 +3,7 @@ services:
     image: harbor.machine:8081/library/node-red-margo:1.0.0
     restart: unless-stopped
     ports:
-      - "1880:1880"
+      - "8081:1880"
     volumes:
       - node_red_data:/data
 

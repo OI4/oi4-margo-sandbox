@@ -4,7 +4,7 @@ metadata:
   id: node-red-stack
   name: Node-RED Stack
   description: Node-RED packaged as a Compose-based Margo application.
-  version: 1.0.0
+  version: 1.1.0
   catalog:
     application:
       tagline: Low-code flow editor for event-driven integrations.
