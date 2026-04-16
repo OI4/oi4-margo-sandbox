@@ -1,0 +1,2 @@
+See the upstream Node-RED project for the applicable license terms.
+
